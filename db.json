@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "projecto 3",
+      "budget": "1112",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Projecto Encriptação",
+      "budget": "65",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 11
+    },
+    {
+      "name": "Projecto teste",
+      "budget": "135",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 3,
+      "services": [
+        {
+          "name": "dev php",
+          "cost": "3",
+          "description": "contratar dev ph com urgência",
+          "id": "6b49bb01-3468-49c4-acf9-08e2fb127b72"
+        }
+      ],
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
